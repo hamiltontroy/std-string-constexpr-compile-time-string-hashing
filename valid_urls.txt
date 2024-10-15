@@ -1,0 +1,4 @@
+empty_path ""
+index "index.html"
+complicated "very-complicated-and-long-url"
+
