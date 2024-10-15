@@ -16,6 +16,6 @@ It is super nice to just have a [Switch Statement](https://en.wikipedia.org/wiki
 ## How it works and How to Use
 
 This program will read from an input file, and then generate c++ code
-with a [const](https://learn.microsoft.com/en-us/cpp/cpp/const-cpp?view=msvc-170) [std::size_t](https://en.cppreference.com/w/cpp/types/size_t) variables assigned to the hash of your string.
+with a [const](https://learn.microsoft.com/en-us/cpp/cpp/const-cpp?view=msvc-170) [std::size_t](https://en.cppreference.com/w/cpp/types/size_t) variable assigned to the hash of your string.
 
 E.g. just look at the examples, they are like 7 lines of code.
